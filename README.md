@@ -124,7 +124,8 @@ Future work could include:
 A detailed explanation of the methodology, experiments, and results is
 available in the project report:
 
- **[PCOS Machine Learning Report (PDF)](PCOS_Report.pdf)**
+ **[PCOS Machine Learning Report (PDF)](PCOS report.pdf)**
+ 
 
 ---
 
